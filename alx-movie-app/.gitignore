@@ -1,4 +1,4 @@
-# See https://help.github.com/articles/ignoring-files/ for more about ignoring files.
+MOVIE_API_KEY=PASTE_YOUR_API_KEY_HERE
 
 # dependencies
 /node_modules
